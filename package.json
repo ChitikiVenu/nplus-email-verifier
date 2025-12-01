@@ -1,0 +1,17 @@
+{
+  "name": "ai-email-verifier",
+  "version": "1.0.0",
+  "description": "AI Email Verifier Application",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^39.0.0"
+  }
+}

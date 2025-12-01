@@ -1,0 +1,9 @@
+{
+  "from_address": "verify@yourdomain.com",
+  "smtp_timeout": 8,
+  "dns_timeout": 6,
+  "threads": "auto",
+  "min_threads": 10,
+  "max_threads": 50,
+  "assume_mx_valid": false
+}
